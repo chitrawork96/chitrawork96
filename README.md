@@ -34,6 +34,7 @@ I combine marketing strategy with hands-on building. I don't just plan campaigns
 | [Rajvastra](https://rajvastra-cinematic-stories.lovable.app) | Volunteer project: heritage brand landing page prototype |
 | [Poster Design Collection](https://posterscollectionstyle.netlify.app/) | 122 poster designs across 29 visual styles |
 | [Logo Design Collection](https://logodesignsstyles.netlify.app/) | 12 fictional brand concepts, 47 logo variations and 15 experimental design styles |
+| [AI-Assisted Video Portfolio](https://aisassistedvideosportoflio.netlify.app/) | AI-assisted video advertising, creative concepts and experimental visual storytelling |
 
 ## 🔗 Find me
 
